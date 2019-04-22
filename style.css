@@ -1,0 +1,17 @@
+/*Style Sheet for VersionControl to learn about git
+resets CSS margin and padding; then creates background*/
+
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body{
+color:white;
+}
+container{
+    min-height: 700px;
+    background-color: fuchsia;
+    
+}
